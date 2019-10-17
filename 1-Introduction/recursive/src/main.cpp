@@ -2,7 +2,7 @@
 //  main.cpp
 //
 //  Created by Eiji Adachi Medeiros Barbosa
-//  Edited by Jordy Araújo de Alcântara
+//  Edited by Jordy Araujo de Alcantara
 //
 
 #include <cassert>

@@ -1,10 +1,10 @@
 //
 //  main.cpp
-
-//  Created by Eiji Adachi Medeiros Barbosa 
+//
+//  Created by Eiji Adachi Medeiros Barbosa
+//  Edited by Jordy Araujo de Alcantara
 //
 
-#include <iostream>
 #include <cassert>
 #include "Math.hpp"
 
