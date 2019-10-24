@@ -4,8 +4,8 @@
 //  Created by Eiji Adachi Medeiros Barbosa 
 //
 
-#ifndef Node_hpp
-#define Node_hpp
+#ifndef Node_h
+#define Node_h
 
 using namespace std;
 

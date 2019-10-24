@@ -1,8 +1,8 @@
-#ifndef List_hpp
-#define List_hpp
+#ifndef List_h
+#define List_h
 
 #include <iostream>
-#include "Node.hpp"
+#include "Node.h"
 
 using namespace std;
 

@@ -4,7 +4,7 @@
 //  Created by Eiji Adachi Medeiros Barbosa
 //
 
-#include "../include/Node.hpp"
+#include "../include/Node.h"
 using namespace std;
 
 Node::Node()
